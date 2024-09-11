@@ -29,7 +29,7 @@ def save_to_json(data, filename):
         json.dump(data, file, ensure_ascii=False, indent=4)
 
 # API 엔드포인트 URL과 파라미터 설정
-api_url = 'https://api.thedogapi.com/v1/images/search?size=med&mime_types=jpg&format=json&has_breeds=true&order=RANDOM&page=0&limit=1'  # 실제 API URL로 변경
+api_url = 'api.edamam.com'  # 실제 API URL로 변경
 params = {
     'param1': 'value1',
     'param2': 'value2'

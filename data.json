@@ -1,8 +1,9 @@
 {
-    "response": {
-        "header": {
-            "resultCode": "C10",
-            "resultMsg": "INVALID_REQUEST_PARAMETER_ERROR"
-        }
-    }
+    "categories": [],
+    "created_at": "2020-01-05 13:42:29.855523",
+    "icon_url": "https://api.chucknorris.io/img/avatar/chuck-norris.png",
+    "id": "lu8fVWBqQ5CLduxZ1dSCmg",
+    "updated_at": "2020-01-05 13:42:29.855523",
+    "url": "https://api.chucknorris.io/jokes/lu8fVWBqQ5CLduxZ1dSCmg",
+    "value": "Chuck Norris can be a better villain than Freddy Krueger, Jason Voorhees, Snaptrap, Venom, Lizard, and.....well any other villain. Hes a better villain than anyone."
 }
